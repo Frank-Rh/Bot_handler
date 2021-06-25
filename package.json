@@ -1,0 +1,19 @@
+{
+  "name": "bot_handler",
+  "version": "1.0.0",
+  "description": "Esto es un bot de discord medio avanzado, con categorias y una tabla ascii, con ayuda por comando, alias por comando, imagen personalizada por cada comando y mas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.5.3",
+    "got": "^11.8.2",
+    "url": "^0.11.0"
+  }
+}
