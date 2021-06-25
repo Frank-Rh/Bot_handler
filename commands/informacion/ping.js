@@ -12,7 +12,7 @@ module.exports = {
         try {
             message.channel.send(`Mi latencia es de ${Math.round(client.ws.ping)} ms`)
         } catch (e) {
-            message.channel.send(`Ocurrio un error ${e}`)
+            message.channel.send(`Ocurrio un error ${e} `)
         }
     }
 }
